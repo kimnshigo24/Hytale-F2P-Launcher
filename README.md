@@ -1,5 +1,7 @@
 # 🎮 Hytale F2P Launcher
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/37e78c74-151e-479f-b62d-e35b2d41e6c9" />
+
 🚀 **Unofficial cross-platform launcher for Hytale** with automatic updates and multiplayer support.
 
 Available on **Windows 🪟, macOS 🍎, and Linux 🐧**
