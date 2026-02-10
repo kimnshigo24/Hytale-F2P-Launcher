@@ -19,7 +19,7 @@ Available on **Windows 🪟, macOS 🍎, and Linux 🐧**
 
 ### 🪟 Windows
 1. Install required **Java JDK 25** and **Visual C++ Redistributable**
-2. Download `Hytale-F2P-Launcher.exe` from [**Releases**](https://github.com/kimnshigo24/Hytale-F2P-Launcher/releases/tag/Launcher)
+2. Download `Hytale-F2P-Launcher` from [**Releases**](https://github.com/kimnshigo24/Hytale-F2P-Launcher/releases/tag/Launcher)
 3. If SmartScreen appears → **More Info → Run Anyway**
 4. Allow `HytaleClient.exe` through Windows Firewall (Private + Public)
 
